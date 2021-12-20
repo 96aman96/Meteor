@@ -1,0 +1,48 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Source/Utils/CommandLineOptions/CommandLineManager.cpp">
+    <Files>
+      <File FileName="packages.config" Line="1" Column="1" />
+      <File FileName="Source/acpch.h" />
+      <File FileName="Source/acpch.cpp" />
+      <File FileName="Source/Utils/Time/CPUTimer.cpp" />
+      <File FileName="Docs/CodeGuildelinesAndRules.txt" />
+      <File FileName="Source/Utils/CommandLineOptions/CommandLineManager.cpp" Line="13" Column="50" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Anarchy" expanded="True">
+            <Node name="Anarchy" expanded="True">
+              <Node name="Docs" expanded="True" />
+              <Node name="Extern" expanded="True">
+                <Node name="Engine" expanded="True">
+                  <Node name="Entt" expanded="True" />
+                </Node>
+                <Node name="Graphics" expanded="True">
+                  <Node name="D3D12" expanded="True">
+                    <Node name="D3DX12" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Source" expanded="True">
+                <Node name="Utils" expanded="True">
+                  <Node name="CommandLineOptions" expanded="True">
+                    <Node name="CommandLineManager.cpp" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="D3D12_Debug_NoBlob|x64" />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <AuthorInfo Name="amankapoor" Email="amankapoor9696@outlook.com" Copyright="" Company="" Trademark="" />
+</Properties>
